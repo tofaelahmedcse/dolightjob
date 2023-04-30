@@ -1,0 +1,5 @@
+.location-sub-category button.active,
+.job-sub-category button.active {
+    color: #fff !important;
+    background: #1cbb8c !important;
+}
